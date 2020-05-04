@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ashwinathale0561/ashwinathale/_apis/build/status/ashwinathale.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ashwinathale0561/ashwinathale/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
